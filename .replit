@@ -1,3 +1,7 @@
 language = "c"
+<<<<<<< HEAD
 run = "clang-7 -pthread -lm -o count hand.c"
+=======
+  run = "language = \"bash\"   run = \"clang-7 -pthread -lm -o count hand.c\"   "
+>>>>>>> origin/master
   
