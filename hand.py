@@ -1,7 +1,3 @@
-def main(): 
-    # your code goes below
-    pass
+#!/usr/bin/env python
 
-
-if __name__ == '__main__':
-    main()
+print(len(open("hand.txt").read()))
