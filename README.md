@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/kgisl/filesOCR)](https://repl.it/github/kgisl/filesOCR)
+
 # Handwritten image and its OCR'ed text file
 
 1. Create your own paper document by writing a few numbers 
@@ -28,13 +30,4 @@ to the image below:
 
 ![img](https://cdn.rawgit.com/kgashok/filesOCR/0446611b/threeArtifacts.jpeg) 
 
-## Python program
-Write your own Python program to count the number of 
-bytes in a text file.
 
-
-### CyberDojo session
-
-Use CyberDojo to execute the program on your personal `hand.txt` file.
-  - Go to http://cyberdojo1.kgfsl.com and use `3C071B767B` as the session ID
-  - Alternatively, use the session http://cyberdojo1.kgfsl.com/kata/edit/Cz0e1R
