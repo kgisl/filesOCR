@@ -9,7 +9,7 @@ an [example](http://j.mp/numberWords).
 2. Create a digital copy of the same (what will you use to 
 create a scanned copy?)
 3. Look inside the digital copy and examine it using a hex 
-editor 
+editor  (online hex editor https://hexed.it/?hl=en). Here's a [screenshot](/hexEditor.png).
 5. Do an **OCR** of your digital copy and download a text 
 version of your digital essay. Write down and share what 
 you used to do an OCR on your own handwritten document.
@@ -17,8 +17,8 @@ you used to do an OCR on your own handwritten document.
 your OCR effort) to your faculty's email; 
 7. Create a github repository containing a digital scan of 
 your document and an OCR'ed text file of your document 
-8. Bring the written document to class;  Bring a print out 
-of the OCR'ed text file to class
+8. Bring the written document to class (from Step 1);  
+Bring a print out of the OCR'ed text file to class
 9. If you do everything as per the steps above, you should 
 end up with a snapshot of a cloned repo directory similar 
 to the image below: 
